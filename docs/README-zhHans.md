@@ -30,15 +30,15 @@
 # 如果这里没有您想要的logo！
 请提交issues。一旦确认需求，我们将为您设计该logo。
 
-由于人员日程安排等因素，我们可能无法立即回复您的需求。制作标志可能需要几天时间。
+由于人员日程安排等因素，我们可能无法立即回复您的需求。制作logo可能需要几天时间。
 > [!IMPORTANT]  
-提交issues的时候请带上request的标签
+提交issues时请带上request的标签。
 
 # 对于各个服务商官方：
 
-请[通过私信联系Sawaratsuki](https://x.com/sawaratsuki1004)申请移除徽标。 我们将立即为您移除。
+请通过[私信联系Sawaratsuki](https://x.com/sawaratsuki1004)申请移除logo。 我们将立即为您移除。
 
-如果你想要售卖带有这些logo的产品的话也请[通过私信联系Sawaratsuki](https://x.com/sawaratsuki1004)。
+如果你想要售卖带有这些logo的产品的话也请[私信联系Sawaratsuki](https://x.com/sawaratsuki1004)。
 
 # 设计工具
 - Photoshop / Illustrator
@@ -62,16 +62,18 @@
 | Cobol          | <img src="/Cobol/Cobol.png" width="100"/> |
 | Crowdstrike    | <img src="/Crowdstrike/CroudStrike.png" width="100"/> |
 | Figma          | <img src="/Figma/Figma.png" width="100"/> |
+| FORTRAN        | <img src="/FORTRAN/FORTRAN.png" width="100"/> |
+| Flipper Zero   | <img src="/Fripper Zero/Flipper Zero.png" width="100"/> |
 | Flutter        | <img src="/Flutter/FlutterTransparent.png" width="100"/> |
-| Github         | <img src="/Github/Github.png" width="100"/> |
-| Gitlab         | <img src="/Gitlab/Gitlab.png" width="100"/> |
+| GitHub         | <img src="/GitHub/GitHub.png" width="100"/> |
+| GitLab         | <img src="/GitLab/GitLab.png" width="100"/> |
 | Gnuemacs       | <img src="/Gnuemacs/GNUEmacs.png" width="100"/> |
 | Go             | <img src="/Go/Golang.png" width="100"/> |
 | Haskell        | <img src="/Haskell/Haskell%20$.png" width="100"/> <img src="/Haskell/Haskell.png" width="100"/> |
 | Hono           | <img src="/Hono/Hono.png" width="100"/> |
 | Html           | <img src="/Html/HTML.png" width="100"/> |
 | Htmx           | <img src="/Htmx/htmx.png" width="100"/> |
-| IamSeries      | <img src="/IamSeries/IamProgrammer!.png" width="100"/> <img src="/IamSeries/IamProgrammerEnglish.png" width="100"/> |
+| IamSeries      | <img src="/IamSeries/IamProgrammer!.png" width="100"/> <img src="/IamSeries/IamProgrammerEnglish.png" width="100"/> <img src="/IamSeries/IamDesigner!.png" width="100"/> <img src="/IamSeries/IamDesigner!English.png" width="100"/> |
 | Java           | <img src="/Java/Java.png" width="100"/> |
 | Juniper        | <img src="/Juniper/Juniper.png" width="100"/> |
 | Kotlin         | <img src="/Kotlin/Kotlin.png" width="100"/> |
@@ -93,6 +95,9 @@
 | Swift          | <img src="/Swift/Swift.png" width="100"/> |
 | Tailwindcss    | <img src="/Tailwindcss/Tailwindcss6.png" width="100"/> |
 | Teamspeak      | <img src="/Teamspeak/TeamSpeak.png" width="100"/> |
+| Twitter        | <img src="/Twitter/Twitter.png" width="100"/> |
+| TypeScript     | <img src="/TypeScript/TypeScript.png" width="100"/> |
+| Ubuntu         | <img src="/Ubuntu/Ubuntu.png" width="100"/> |
 | UnityBlender   | <img src="/UnityBlender/UnityBlenderT.png" width="100"/> |
 | Vim            | <img src="/Vim/VIM.png" width="100"/> |
 | Vite           | <img src="/Vite/Vite.png" width="100"/> |

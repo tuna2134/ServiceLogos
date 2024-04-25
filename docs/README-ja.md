@@ -12,17 +12,21 @@
 > ### 要約:
 > - 営利目的でない、非営利目的である場合このロゴを自由に使用することが出来ます。
 >   例えば、シールやステッカーとして印刷することやエディタのアイコンなどに使用できます。
+> - クレジットを明記してほしいです！
+>   改変やリミックスは自由ですが、その新しい作品にもこの元のロゴと同じライセンスを付けてください。
 > - このロゴを使用してなにか作った場合は[さわらつきをメンション](https://x.com/sawaratsuki1004)してポストしてくれるとモチベーションに繋がります！
 
 ### 全項
+![CC BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
 1. これらのロゴの作成者は さわらつき です。 著作権を完全に放棄したわけではありません。
-2. 非営利の範囲であればどなたでも自由に使用することができます。 
->  営利目的（ロゴを使用した商品の販売等）での使用は禁止です。ただし以下に定める項目に該当する場合は販売することが出来ます。  
->  1. 各サービスの公式が営利目的で販売したい場合  
-> 2. さわらつきが許可した場合  
-> (違反を見つけた場合はすぐに[@さわらつき](https://x.com/sawaratsuki1004)にご連絡ください！)
+2. これらのロゴは、[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja) で提供されています。
+>  - クレジットを明記することが推奨されます。モチベーションに繋がりますので、ぜひお願いします。
+>  - 改変、リミックスすることが可能ですが、その新しい作品にも元の作品と同じライセンス (CC BY-NC-SA 4.0) を付けなければなりません。
+>  - 営利目的（ロゴを使用した商品の販売等）での使用は禁止です。ただし以下に定める項目に該当する場合は販売することが出来ます。 
+>    1. 各サービスの公式が営利目的で販売したい場合  
+>    2. さわらつきが許可した場合  
+>       (違反を見つけた場合はすぐに[@さわらつき](https://x.com/sawaratsuki1004)にご連絡ください！)
 3. ステッカーやシールなどを個人使用の範囲で許可なく使用しても問題ありません！
-4. 記載は任意ですが、クレジットの記載をお願いします。（モチベーションに繋がります）
 
 
 # ここにないロゴが欲しい！
@@ -59,16 +63,18 @@ issuesに投稿する場合必ずリクエストタグを付けて投稿して�
 | Cobol          | <img src="/Cobol/Cobol.png" width="100"/> |
 | Crowdstrike    | <img src="/Crowdstrike/CroudStrike.png" width="100"/> |
 | Figma          | <img src="/Figma/Figma.png" width="100"/> |
+| FORTRAN        | <img src="/FORTRAN/FORTRAN.png" width="100"/> |
+| Flipper Zero   | <img src="/Fripper Zero/Flipper Zero.png" width="100"/> |
 | Flutter        | <img src="/Flutter/FlutterTransparent.png" width="100"/> |
-| Github         | <img src="/Github/Github.png" width="100"/> |
-| Gitlab         | <img src="/Gitlab/Gitlab.png" width="100"/> |
+| GitHub         | <img src="/GitHub/GitHub.png" width="100"/> |
+| GitLab         | <img src="/GitLab/GitLab.png" width="100"/> |
 | Gnuemacs       | <img src="/Gnuemacs/GNUEmacs.png" width="100"/> |
 | Go             | <img src="/Go/Golang.png" width="100"/> |
 | Haskell        | <img src="/Haskell/Haskell%20$.png" width="100"/> <img src="/Haskell/Haskell.png" width="100"/> |
 | Hono           | <img src="/Hono/Hono.png" width="100"/> |
 | Html           | <img src="/Html/HTML.png" width="100"/> |
 | Htmx           | <img src="/Htmx/htmx.png" width="100"/> |
-| IamSeries      | <img src="/IamSeries/IamProgrammer!.png" width="100"/> <img src="/IamSeries/IamProgrammerEnglish.png" width="100"/> |
+| IamSeries      | <img src="/IamSeries/IamProgrammer!.png" width="100"/> <img src="/IamSeries/IamProgrammerEnglish.png" width="100"/> <img src="/IamSeries/IamDesigner!.png" width="100"/> <img src="/IamSeries/IamDesigner!English.png" width="100"/> |
 | Java           | <img src="/Java/Java.png" width="100"/> |
 | Juniper        | <img src="/Juniper/Juniper.png" width="100"/> |
 | Kotlin         | <img src="/Kotlin/Kotlin.png" width="100"/> |
@@ -90,6 +96,9 @@ issuesに投稿する場合必ずリクエストタグを付けて投稿して�
 | Swift          | <img src="/Swift/Swift.png" width="100"/> |
 | Tailwindcss    | <img src="/Tailwindcss/Tailwindcss6.png" width="100"/> |
 | Teamspeak      | <img src="/Teamspeak/TeamSpeak.png" width="100"/> |
+| Twitter        | <img src="/Twitter/Twitter.png" width="100"/> |
+| TypeScript     | <img src="/TypeScript/TypeScript.png" width="100"/> |
+| Ubuntu         | <img src="/Ubuntu/Ubuntu.png" width="100"/> |
 | UnityBlender   | <img src="/UnityBlender/UnityBlenderT.png" width="100"/> |
 | Vim            | <img src="/Vim/VIM.png" width="100"/> |
 | Vite           | <img src="/Vite/Vite.png" width="100"/> |

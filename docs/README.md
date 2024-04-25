@@ -11,18 +11,22 @@ This is a repository created by Sawaratsuki to upload logos of various services.
 > [!NOTE]
 > ### Summary:
 > - You are free to use this logo for non-commercial, non-profit purposes.
-    >   For example, you can use it for printing as stickers, as icons for editors, etc.
+>   For example, you can use it for printing as stickers, as icons for editors, etc.
+> - Please give the appropriate credits!
+>   You are free to modify or remix it, but you must license that new work under the same license as this original logo.
 > - If you create something using this logo, mentioning [Sawaratsuki](https://x.com/sawaratsuki1004) when posting would be motivating!
 
 ### All items
+![CC BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
 1. The creator of these logos is Sawaratsuki. The copyright has not been completely waived.
-2. Anyone is free to use these logos within the scope of non-profit purposes.
->  Commercial use (such as selling products using the logo) is prohibited. However, it can be sold if it falls under the following conditions:
->  1. If the official of each service wants to sell for profit
->  2. If permission is granted by Sawaratsuki  
-      > (If you find any violations, please contact [@Sawaratsuki](https://x.com/sawaratsuki1004) immediately!)
+2. These logos are provided under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
+>  - It is recommended to give appropriate credit. It is a great motivator, so please do so.
+>  - You can modify or remix it, but you must give the new work the same license (CC BY-NC-SA 4.0) as the original work.
+>  - Commercial use (such as selling products using the logo) is prohibited. However, it can be sold if it falls under the following conditions:
+>    1. If the official of each service wants to sell for profit
+>    2. If permission is granted by Sawaratsuki  
+>       (If you find any violations, please contact [@Sawaratsuki](https://x.com/sawaratsuki1004) immediately!)
 3. It's okay to use stickers, seals, etc., for personal use without permission!
-4. Although it is optional, please credit the source. (It will be motivating.)
 
 # Want a logo that's not here!
 Please post it in the issues. We'll create it once confirmed.
@@ -57,16 +61,18 @@ If you would like to sell your product officially, please send a [Direct message
 | Cobol          | <img src="/Cobol/Cobol.png" width="100"/> |
 | Crowdstrike    | <img src="/Crowdstrike/CroudStrike.png" width="100"/> |
 | Figma          | <img src="/Figma/Figma.png" width="100"/> |
+| FORTRAN        | <img src="/FORTRAN/FORTRAN.png" width="100"/> |
+| Flipper Zero   | <img src="/Fripper Zero/Flipper Zero.png" width="100"/> |
 | Flutter        | <img src="/Flutter/FlutterTransparent.png" width="100"/> |
-| Github         | <img src="/Github/Github.png" width="100"/> |
-| Gitlab         | <img src="/Gitlab/Gitlab.png" width="100"/> |
+| GitHub         | <img src="/GitHub/GitHub.png" width="100"/> |
+| GitLab         | <img src="/GitLab/GitLab.png" width="100"/> |
 | Gnuemacs       | <img src="/Gnuemacs/GNUEmacs.png" width="100"/> |
 | Go             | <img src="/Go/Golang.png" width="100"/> |
 | Haskell        | <img src="/Haskell/Haskell%20$.png" width="100"/> <img src="/Haskell/Haskell.png" width="100"/> |
 | Hono           | <img src="/Hono/Hono.png" width="100"/> |
 | Html           | <img src="/Html/HTML.png" width="100"/> |
 | Htmx           | <img src="/Htmx/htmx.png" width="100"/> |
-| IamSeries      | <img src="/IamSeries/IamProgrammer!.png" width="100"/> <img src="/IamSeries/IamProgrammerEnglish.png" width="100"/> |
+| IamSeries      | <img src="/IamSeries/IamProgrammer!.png" width="100"/> <img src="/IamSeries/IamProgrammerEnglish.png" width="100"/> <img src="/IamSeries/IamDesigner!.png" width="100"/> <img src="/IamSeries/IamDesigner!English.png" width="100"/> |
 | Java           | <img src="/Java/Java.png" width="100"/> |
 | Juniper        | <img src="/Juniper/Juniper.png" width="100"/> |
 | Kotlin         | <img src="/Kotlin/Kotlin.png" width="100"/> |
@@ -88,6 +94,9 @@ If you would like to sell your product officially, please send a [Direct message
 | Swift          | <img src="/Swift/Swift.png" width="100"/> |
 | Tailwindcss    | <img src="/Tailwindcss/Tailwindcss6.png" width="100"/> |
 | Teamspeak      | <img src="/Teamspeak/TeamSpeak.png" width="100"/> |
+| Twitter        | <img src="/Twitter/Twitter.png" width="100"/> |
+| TypeScript     | <img src="/TypeScript/TypeScript.png" width="100"/> |
+| Ubuntu         | <img src="/Ubuntu/Ubuntu.png" width="100"/> |
 | UnityBlender   | <img src="/UnityBlender/UnityBlenderT.png" width="100"/> |
 | Vim            | <img src="/Vim/VIM.png" width="100"/> |
 | Vite           | <img src="/Vite/Vite.png" width="100"/> |
